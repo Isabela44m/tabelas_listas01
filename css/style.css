@@ -1,0 +1,13 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+ul, ol {
+  line-height: 1.8;
+}
+th, td {
+  border: 1px solid #1d4ed8;
+  padding: 12px;
+  text-align: left;
+}
